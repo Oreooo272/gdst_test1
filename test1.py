@@ -34,11 +34,11 @@ stock = ["1101","2330"]
 
 	    # bot token
 
-	    token = "輸入你的 bot token"
+	    token = "8189168413:AAFgsOM4flnEQmmqG9bSO8H5vGEUnkX5PIo"
 
 	    # 使用者 id
 
-	    chat_id="輸入你的 telegram id"
+	    chat_id="Dogggggiioo_bot"
 
 	    # bot 送訊息
 
