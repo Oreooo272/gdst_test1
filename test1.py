@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup # 解析工具
 import time # 用來暫停程式
  
 # 要爬的股票
-stock = ["1101","2330"]
+stock = ["1101","2330","2317"]
 for i in range(len(stock)): # 迴圈依序爬股價
 
 	    # 現在處理的股票
@@ -13,7 +13,7 @@ for i in range(len(stock)): # 迴圈依序爬股價
 
 	    # 網址塞入股票編號
 
-	    url = "https://tw.stock.yahoo.com/quote/"+stockid+".TW"
+	    url = "https://tw.stock.yahoo.com/quote/2317.TW"
 
 	    # 發送請求
 
@@ -38,7 +38,7 @@ for i in range(len(stock)): # 迴圈依序爬股價
 
 	    # 使用者 id
 
-	    chat_id="Dogggggiioo_bot"
+	    chat_id="@Dogggggiioo_bot"
 
 	    # bot 送訊息
 
