@@ -13,7 +13,9 @@ for i in range(len(stock)): # 迴圈依序爬股價
 
 	    # 網址塞入股票編號
 
-	    url = "https://tw.stock.yahoo.com/quote/2317.TW"
+	    url1 = "https://tw.stock.yahoo.com/quote/1101.TW"
+	    url2 = "https://tw.stock.yahoo.com/quote/2330.TW"
+	    url3 = "https://tw.stock.yahoo.com/quote/2317.TW"
 
 	    # 發送請求
 
